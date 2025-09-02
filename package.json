@@ -17,5 +17,8 @@
     "multer": "^2.0.2",
     "pino": "^9.9.0",
     "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.7.10"
   }
 }
