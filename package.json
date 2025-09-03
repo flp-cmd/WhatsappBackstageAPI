@@ -12,13 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.6.0",
+    "dotenv": "^17.2.2",
     "express": "^5.1.0",
     "multer": "^2.0.2",
-    "pino": "^9.9.0",
-    "qrcode-terminal": "^0.12.0"
-  },
-  "devDependencies": {
-    "@flydotio/dockerfile": "^0.7.10"
+    "node-fetch": "^3.3.2"
   }
 }
